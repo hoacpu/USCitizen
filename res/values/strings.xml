@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">USCitizen</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_display_chapter">100 US Citizenship Questions</string>
+    <string name="enable_voice">Voice</string>
+    <string name="enable_vietnamese">Translate To VietNam</string>
+
+</resources>
